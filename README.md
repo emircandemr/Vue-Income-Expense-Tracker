@@ -4,9 +4,8 @@
 
 An application where you can track your income and expenses. The vue 3 composition api is used throughout the application. Vuex is used in state management and scss is used in design.
 
-![mobile (1) (1)](https://user-images.githubusercontent.com/72731296/196257520-837a1a2c-59f3-414e-9dc5-e95a38cf6621.png)
-![mobile (2) (1)](https://user-images.githubusercontent.com/72731296/196257524-b797325c-edae-4ca4-9b66-08212394cfef.png)
-
+![mobile (1) (1)](https://user-images.githubusercontent.com/72731296/196258572-2e2ea782-28db-4692-91e9-da63326fda8b.png)
+![mobile (2) (1)](https://user-images.githubusercontent.com/72731296/196258574-dad3f933-c5c2-4e40-86bc-691dffeeebe9.png)
 
 
 ## Getting Started
