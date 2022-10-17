@@ -1,6 +1,6 @@
 # Income & Expense Tracker
 
-## [LIVE](income-expense.vercel.app)
+## [LIVE](https://income-expense.vercel.app)
 
 An application where you can track your income and expenses. The vue 3 composition api is used throughout the application. Vuex is used in state management and scss is used in design.
 
